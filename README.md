@@ -1,6 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+
+I am Upendra!
+
+I love coding and teach how to code. I host my courses on my Youtube channel - [codeRECODE](https://youtube.com/@coderecode), and also on my website [codeRECODE.com](https://coderecode.com).
 
 <!--
+💬 Ask me about Python, and Scrapy
+📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ..
+
+
 **eupendra/eupendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
