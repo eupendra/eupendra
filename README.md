@@ -8,7 +8,7 @@ Check out my YouTube channel, **[codeRECODE](https://youtube.com/@coderecode)**,
 ### 📚 Online Courses
 Explore my website, **[codeRECODE.com](https://coderecode.com)**, for exclusive courses designed to enhance your coding skills:
 
-#### codeRECODE.com EXCLUSIVE
+#### 🔥 codeRECODE.com EXCLUSIVE
 - ✅ **Become a member** and get access to all the courses: [Learn more about membership](https://coderecode.com/membership)
 - ✅ **Take the course on Scrapy Basics for $1 or free** 😀 (Use coupon code **FREE** on the checkout page): [Scrapy Crash Course](https://courses.coderecode.com/p/scrapy-crash-course)
 
